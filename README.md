@@ -5,10 +5,10 @@ Pagina web responsive crada con HTML y css.
   <a><img src="./img/Captura1.JPG" /></a>
 </p>
 <p align="center">
-    <a><img src="./img/Captura2.jpg" /></a>
+    <a><img src="./img/Captura2.JPG" /></a>
 </p>
 <p align="center">
-    <a><img src="./img/Captura3.jpg" /></a>
+    <a><img src="./img/Captura3.JPG" /></a>
 </p>
 &nbsp;
 <p align="center" width="400">
