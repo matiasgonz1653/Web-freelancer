@@ -2,7 +2,7 @@
 Pagina web responsive crada con HTML y css.
 
 <p align="center">
-  <a><img src="./img/Captura1.jpg" /></a>
+  <a><img src="./img/Captura1.JPG" /></a>
 </p>
 <p align="center">
     <a><img src="./img/Captura2.jpg" /></a>
